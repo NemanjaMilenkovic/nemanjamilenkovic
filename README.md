@@ -3,7 +3,7 @@
 Hi! My name is Nemanja Milenkovic and this is my GitHub.
 
 <a href="https://github.com/NemanjaMilenkovic/NemanjaMilenkovic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NemanjaMilenkovic&show_icons=true&line_height=20&count_private=true&title_color=2bbc8a&text_color=black&icon_color=2bbc8a&bg_color=white" alt="Nemanja Milenkovic's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NemanjaMilenkovic&show_icons=true&line_height=20&count_private=true&title_color=2bbc8a&text_color=black&icon_color=2bbc8a&bg_color=white&hide=stars,issues,contribs" alt="Nemanja Milenkovic's GitHub Stats" />
 </a>
 
 
