@@ -33,7 +33,75 @@ nemanja.milenkovic@gmail.com
   <br>
 
   <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 738 Contributions in the Year 2021
+ > 
+> 📦 135.2 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 25 Public Repositories 
+ > 
+> 🔑 84 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    63 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.71% 
+🌆 Daytime    286 commits    ████████░░░░░░░░░░░░░░░░░   35.01% 
+🌃 Evening    326 commits    ██████████░░░░░░░░░░░░░░░   39.9% 
+🌙 Night      142 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.38%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       165 commits    █████░░░░░░░░░░░░░░░░░░░░   20.2% 
+Tuesday      143 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.5% 
+Wednesday    133 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
+Thursday     173 commits    █████░░░░░░░░░░░░░░░░░░░░   21.18% 
+Friday       112 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
+Saturday     43 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.26% 
+Sunday       48 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Tokyo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               58 repos            ████████████████░░░░░░░░░   67.44% 
+TypeScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.47% 
+HTML                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49% 
+VBA                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49% 
+TSQL                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/NemanjaMilenkovic/NemanjaMilenkovic/main/charts/bar_graph.png) 
+
+
+ Last Updated on 30/10/2021
+<!--END_SECTION:waka-->
   <br><br>
 </details>
 
