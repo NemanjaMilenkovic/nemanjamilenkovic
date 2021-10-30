@@ -33,71 +33,7 @@ nemanja.milenkovic@gmail.com
   <br>
 
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 738 Contributions in the Year 2021
- > 
-> 📦 135.2 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 25 Public Repositories 
- > 
-> 🔑 84 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    63 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.7% 
-🌆 Daytime    287 commits    ████████░░░░░░░░░░░░░░░░░   35.09% 
-🌃 Evening    326 commits    ██████████░░░░░░░░░░░░░░░   39.85% 
-🌙 Night      142 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.36%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       165 commits    █████░░░░░░░░░░░░░░░░░░░░   20.17% 
-Tuesday      143 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.48% 
-Wednesday    133 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.26% 
-Thursday     173 commits    █████░░░░░░░░░░░░░░░░░░░░   21.15% 
-Friday       112 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
-Saturday     44 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.38% 
-Sunday       48 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.87%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Tokyo
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               58 repos            ████████████████░░░░░░░░░   67.44% 
-TypeScript               9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.47% 
-HTML                     3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49% 
-VBA                      3 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.49% 
-TSQL                     2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/NemanjaMilenkovic/NemanjaMilenkovic/main/charts/bar_graph.png) 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
 
  Last Updated on 30/10/2021
