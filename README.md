@@ -33,7 +33,7 @@ nemanja.milenkovic@gmail.com
   <br>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I'm an Early 🐤** 
 
@@ -59,7 +59,7 @@ Sunday       66 commits     ██░░░░░░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2022 18:48:10 UTC
+ Last Updated on 15/08/2022 18:52:45 UTC
 <!--END_SECTION:waka-->
   <br><br>
 </details>
