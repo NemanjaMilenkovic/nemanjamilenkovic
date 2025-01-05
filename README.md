@@ -2,7 +2,7 @@
 <p align='center'> I'm Nemanja. </p>
 <p align='center'>You can reach me @ <a href = "mailto:nemanja.milenkovic@gmail.com?subject = I was looking at yout GitHub&body = Hi!">
 nemanja.milenkovic@gmail.com
-</a> or <a href="https://twitter.com/milenkovicn">Twitter</a>.</p>
+</a> 
 
 ---
 <br>
